@@ -1,0 +1,37 @@
+[
+    {
+        "roll": "1",
+        "name": "Aesha",
+        "age": "21",
+        "grade": "B+",
+        "email": "aesha@gmail.com"
+    },
+    {
+        "roll": "2",
+        "name": "anjali",
+        "age": "22",
+        "grade": "A",
+        "email": "anjali@gmail.com"
+    },
+    {
+        "roll": "3",
+        "name": "nimmee oza",
+        "age": "24",
+        "grade": "A-",
+        "email": "nimmee@gmail.com"
+    },
+    {
+        "roll": "4",
+        "name": "sonal",
+        "age": "22",
+        "grade": "B+",
+        "email": "sonal@gmail.com"
+    },
+    {
+        "roll": "5",
+        "name": "kinjal",
+        "age": "21",
+        "grade": "A+",
+        "email": "kinjali@gmail.com"
+    }
+]
